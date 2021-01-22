@@ -1,2 +1,2 @@
-# Post-Prefix-Calculator211
+# Post-Prefix-Calculator
 A calculator utilizing stack to solve +-/* in prefix and postfix.

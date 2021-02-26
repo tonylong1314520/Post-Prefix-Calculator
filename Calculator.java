@@ -38,7 +38,6 @@ public class Calculator implements ICalculator {
     instance = null;
   }
 
-  // found code on https://www.geeksforgeeks.org/expression-evaluation/
   @Override
   public Number postFixCalculate(String expression) throws InvalidExpressionException {
     // convert the expressions to tokens
